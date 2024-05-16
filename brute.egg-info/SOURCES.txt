@@ -1,0 +1,8 @@
+README.md
+brute.py
+setup.py
+brute.egg-info/PKG-INFO
+brute.egg-info/SOURCES.txt
+brute.egg-info/dependency_links.txt
+brute.egg-info/not-zip-safe
+brute.egg-info/top_level.txt
