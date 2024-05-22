@@ -1,9 +1,9 @@
-# brute
+# brutex
 
 [![PyPI Version](https://img.shields.io/pypi/v/brute.svg)](https://pypi.python.org/pypi/brute)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/brute.svg)](https://pypi.python.org/pypi/brute)
 [![Travis Build Status](https://img.shields.io/travis/rdegges/brute.svg)](https://travis-ci.org/rdegges/brute)
-
+https://github.com/R3dCr0ss/brutex.git
 Simple brute forcing in Python.
 
 ## Purpose
