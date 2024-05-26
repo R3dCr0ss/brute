@@ -1,0 +1,22 @@
+{
+  "name": "brutex",
+  "version": "1.0.0",
+  "description": "[![PyPI Version](https://img.shields.io/pypi/v/brute.svg)](https://pypi.python.org/pypi/brute) [![PyPI Downloads](https://img.shields.io/pypi/dm/brute.svg)](https://pypi.python.org/pypi/brute) [![Travis Build Status](https://img.shields.io/travis/rdegges/brute.svg)](https://travis-ci.org/rdegges/brute)",
+  "main": "brute.py",
+  "scripts": {
+    "test": "test_prute.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R3dCr0ss/brutex.git"
+  },
+  "keywords": [
+    "brutex"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/R3dCr0ss/brutex/issues"
+  },
+  "homepage": "https://github.com/R3dCr0ss/brutex#readme"
+}
