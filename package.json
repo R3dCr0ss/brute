@@ -1,4 +1,10 @@
+{
   "repository": {
     "type": "git",
     "url": "git+https://github.com/R3dCr0ss/brutex.git"
+  },
+  "dependencies": {
+    "brutex": "^1.0.0",
+    "package_name": "^1.0.0"
   }
+}
