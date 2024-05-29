@@ -6,5 +6,9 @@
   "dependencies": {
     "brutex": "^1.0.0",
     "package_name": "^1.0.0"
+   },
+  "dependencies": {
+    "brutex": "^1.0.1",
+    "package_name": "^1.0.1"
   }
 }
